@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Thought
+  - PathNode
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Thought
+  - Water
+  - UI
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Thought
+    uniqueID: 757573397
+    locked: 0
+  - name: Platform
+    uniqueID: 3920610459
+    locked: 0
+  - name: Player
+    uniqueID: 3189912627
+    locked: 0
